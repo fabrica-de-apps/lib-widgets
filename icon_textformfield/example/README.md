@@ -1,3 +1,3 @@
 # example
 
-![Example](static/icontextformfield.jpg)
+![Example](static/icontextformfield.jpg | width=100)
