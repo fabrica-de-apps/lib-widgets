@@ -1,3 +1,3 @@
 # example
 
-![Example](static/icontextformfield.jpg){:height="50%" width="50%"}
+<img src="static/icontextformfield.jpg" width="300">
