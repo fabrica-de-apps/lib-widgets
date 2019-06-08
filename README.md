@@ -1,3 +1,3 @@
 # icon_textformfield
 
-![Example](static/icontextformfield.jpg)
+<img src="static/icontextformfield.jpg" width="300">
